@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+.rollHistory{
+	overflow-y:scroll;
+	height: 200px;
+	width: 200px;
+}
+.roll{
+display:block;	
+}
