@@ -1,9 +1,23 @@
 /* CSS declarations go here */
+body{
+	margin: 20px;
+}
 .rollHistory{
 	overflow-y:scroll;
 	height: 200px;
-	width: 200px;
+	width: auto;
+	margin:5px;
 }
-.roll{
+.singleRollHistory{
+	margin:5px;
+}
+.hiddenHistory{
+	display:none;
+}
+.roll, input, select{
 display:block;	
 }
+.rollTime{
+	margin-left: 50px;
+}
+

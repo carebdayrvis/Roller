@@ -8,4 +8,3 @@ root.Main = ReactMeteor.createClass({
 		return  NumberBox();
 	}
 });
-
